@@ -1,1 +1,1 @@
-Repository for Data Science Coursera course (Johns Hopkins University) 🧪 💻
+## Repository for Data Science Coursera course (Johns Hopkins University) 🧪 💻
